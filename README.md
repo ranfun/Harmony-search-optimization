@@ -1,0 +1,2 @@
+# Harmony_search_optimization
+Harmony search (HS) is a population based metaheuristics algorithm inspired from the musical process of searching for a perfect state of harmony. The pitch of each musical instrument determines the aesthetic quality, just as the fitness function value determines the quality of the decision variables. In the music improvisation process, all players sound pitches within possible range together to make one harmony.
